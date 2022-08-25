@@ -1,0 +1,4 @@
+project: PROJECT
+target: jsonfuzz
+cmds:
+- cmd: /out/jsonfuzz
